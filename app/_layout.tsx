@@ -42,6 +42,7 @@ export default function RootLayout() {
         <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
         <Stack.Screen name="destinationpage" options={{ headerShown: false }} />
         <Stack.Screen name="categorylist" options={{ headerShown: false }} />
+        <Stack.Screen name="gemini" options={{ headerShown: false }} />
       </Stack>
       <StatusBar style="light" />
     </>
