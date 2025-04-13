@@ -14,33 +14,34 @@ import { Colors } from "@/constants/Colors";
 import { Ionicons } from "@expo/vector-icons";
 import Checkbox from "expo-checkbox";
 import { useRouter } from "expo-router";
-// import AsyncStorage from "@react-native-async-storage/async-storage";
+import AsyncStorage from "@react-native-async-storage/async-storage";
+import useAuth from "@/hooks/Auth.services";
 
 export default function login() {
   const router = useRouter();
   const [email, setEmail] = useState<string>('');
   const [password, setPassword] = useState<string>('');
-//   const { handleLogin, loading } = useAuth();
+  const { handleLogin, loading } = useAuth();
   const [isPasswordShown, setIsPasswordShown] = useState(false);
   const [isChecked, setIsChecked] = useState(false);
 
-//   useEffect(() => {
-//     const loadCredentials = async () => {
-//       try {
-//         const savedEmail = await AsyncStorage.getItem('savedEmail');
-//         const savedPassword = await AsyncStorage.getItem('savedPassword');
-//         if (savedEmail && savedPassword) {
-//           setEmail(savedEmail);
-//           setPassword(savedPassword);
-//           setIsChecked(true);
-//         }
-//       } catch (error) {
-//         console.error('Failed to load credentials:', error);
-//       }
-//     };
+  useEffect(() => {
+    const loadCredentials = async () => {
+      try {
+        const savedEmail = await AsyncStorage.getItem('savedEmail');
+        const savedPassword = await AsyncStorage.getItem('savedPassword');
+        if (savedEmail && savedPassword) {
+          setEmail(savedEmail);
+          setPassword(savedPassword);
+          setIsChecked(true);
+        }
+      } catch (error) {
+        console.error('Failed to load credentials:', error);
+      }
+    };
   
-//     loadCredentials();
-//   }, []);
+    loadCredentials();
+  }, []);
   
   const onSubmit = async () => {
     if (!email || !password) {
@@ -51,22 +52,22 @@ export default function login() {
     if (isChecked) {
       // Save email and password
       try {
-        // await AsyncStorage.setItem('savedEmail', email);
-        // await AsyncStorage.setItem('savedPassword', password);
+        await AsyncStorage.setItem('savedEmail', email);
+        await AsyncStorage.setItem('savedPassword', password);
       } catch (error) {
         console.error('Failed to save credentials:', error);
       }
     } else {
       // Remove saved data if unchecked
       try {
-        // await AsyncStorage.removeItem('savedEmail');
-        // await AsyncStorage.removeItem('savedPassword');
+        await AsyncStorage.removeItem('savedEmail');
+        await AsyncStorage.removeItem('savedPassword');
       } catch (error) {
         console.error('Failed to remove credentials:', error);
       }
     }
   
-    // handleLogin(email, password);
+    handleLogin(email, password);
   };
 
   return (
@@ -206,10 +207,10 @@ export default function login() {
         >
           <TouchableOpacity
             style={[styles.button, ]} //loading && styles.buttonDisabled
-            // onPress={onSubmit}
+            onPress={onSubmit}
             // disabled={loading}
             activeOpacity={0.7}
-            onPress={() => router.replace("/(tabs)/index")}
+            // onPress={() => router.replace("/(tabs)/index")}
           >
             <Text style={styles.buttonText}>Login</Text>
           </TouchableOpacity>

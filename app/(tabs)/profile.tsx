@@ -10,6 +10,8 @@ import {
 } from "react-native";
 import { MaterialIcons } from "@expo/vector-icons";
 import { Colors } from "@/constants/Colors";
+import useAuth from "@/hooks/Auth.services";
+import useUser from "@/hooks/useUser";
 
 type IconName = keyof typeof MaterialIcons.glyphMap;
 
@@ -36,8 +38,13 @@ const user = {
 };
 
 export default function profile() {
-  const currentUser  = {name: "Lara", email: "Example@gmail.com"};
+  const { currentUser } = useUser();
   const userImageUrl = "";
+  const { handleLogout } = useAuth();
+
+  const onSubmit = () => {
+    handleLogout();
+  };
 
   const getRandomColor = () => {
     const letters = "0123456789ABCDEF";
@@ -163,7 +170,7 @@ export default function profile() {
 
         {/* Log out btn */}
         <TouchableOpacity
-          // onPress={onSubmit}
+          onPress={onSubmit}
           style={{ marginTop: 35 }}
         >
           <View style={styles.iconTextContainer}>

@@ -13,12 +13,17 @@ import { AntDesign, Ionicons } from "@expo/vector-icons";
 import { Colors } from "@/constants/Colors";
 import Categories from "@/components/Categories";
 import Destinations from "@/components/Destinations";
+import useUser from "@/hooks/useUser";
 const { width, height } = Dimensions.get('window');
+const user = {
+  imageUrl: "",
+  fullName: "Lara",
+};
 
 export default function index() {
   const [searchInput, setSearchInput] = useState("");
   const photoURL = "";
-  const currentUser = { name: "Lara" };
+  const { currentUser } = useUser();
   const getRandomColor = () => {
     const letters = "0123456789ABCDEF";
     let color = "";
@@ -64,7 +69,7 @@ export default function index() {
               source={
                 photoURL
                   ? { uri: photoURL }
-                  : { uri: generateAvatarUrl(currentUser?.name) }
+                  : { uri: generateAvatarUrl(currentUser?.name || user.fullName) }
               }
               style={{ width: 45, height: 45, borderRadius: 99 }}
             />
@@ -79,7 +84,7 @@ export default function index() {
                   color: Colors.white,
                 }}
               >
-                {currentUser?.name}
+                {currentUser?.name || user.fullName}
               </Text>
             </View>
           </View>
