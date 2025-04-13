@@ -2,9 +2,11 @@ import { View, Text, Image, TouchableOpacity, Dimensions, StyleSheet } from "rea
 import React from "react";
 import { Colors } from "@/constants/Colors";
 import { LinearGradient } from 'expo-linear-gradient';
+import { useRouter } from "expo-router";
 const { width, height } = Dimensions.get('window');
 
 export default function welcome() {
+  const router = useRouter();
   return (
     <View style={{ flex: 1, display: "flex", justifyContent: "flex-end" }}>
       <Image
@@ -29,6 +31,7 @@ export default function welcome() {
           </Text>
         </View>
         <TouchableOpacity
+          onPress={() => router.push("/(auth)/login")}
           style={{
             margin: "auto",
             padding: 15,

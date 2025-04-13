@@ -1,4 +1,4 @@
-const primary = '#007BFF';
+const primary = 'orange';
 const secondary = '#28A745';
 const accent = '#17A2B8';
 const background = '#F8F9FA';
