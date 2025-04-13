@@ -63,7 +63,7 @@ export default function profile() {
   };
   return (
     <View style={{ padding: 20, marginTop: 20 }}>
-      <Text
+      {/* <Text
         style={{
           fontSize: 25,
           fontFamily: "appFont-semibold",
@@ -71,7 +71,7 @@ export default function profile() {
         }}
       >
         My Profile
-      </Text>
+      </Text> */}
 
       {/* profile image */}
       <View style={{ marginTop: 10 }}>

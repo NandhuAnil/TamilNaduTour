@@ -1,0 +1,882 @@
+[
+  {
+    "destination_name":"Meenakshi Amman Temple",
+    "Category":"Temple",
+    "Description":"Meenakshi Amman Temple is a well-known temple located in Madurai, Tamil Nadu. The destination 'Meenakshi Amman Temple' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https://images.deccanchronicle.com/dc-Cover-n7amv0ua5c5aq1hlqcg4rslmq0-20170809013403.Medi.jpeg",
+    "Location":"Madurai",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/meenakshi-amman-temple"
+  },
+  {
+    "destination_name":"Marina Beach",
+    "Category":"Beach",
+    "Description":"Marina Beach is a well-known beach located in Chennai, Tamil Nadu. The destination 'Marina Beach' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https://s7ap1.scene7.com/is/image/incredibleindia/marina-beach-chennai-tamil-nadu-3-attr-hero?qlt=82&ts=1726655064889",
+    "Location":"Chennai",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/marina-beach"
+  },
+  {
+    "destination_name":"Ooty",
+    "Category":"Hill Station",
+    "Description":"Ooty is a well-known hill station located in Nilgiris, Tamil Nadu. The destination 'Ooty' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/ooty.jpg",
+    "Location":"Nilgiris",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/ooty"
+  },
+  {
+    "destination_name":"Brihadeeswara Temple",
+    "Category":"Temple",
+    "Description":"Brihadeeswara Temple is a well-known temple located in Thanjavur, Tamil Nadu. The destination 'Brihadeeswara Temple' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/brihadeeswara_temple.jpg",
+    "Location":"Thanjavur",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/brihadeeswara-temple"
+  },
+  {
+    "destination_name":"Kanyakumari",
+    "Category":"Beach",
+    "Description":"Kanyakumari is a well-known beach located in Kanyakumari, Tamil Nadu. The destination 'Kanyakumari' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/kanyakumari.jpg",
+    "Location":"Kanyakumari",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/kanyakumari"
+  },
+  {
+    "destination_name":"Mahabalipuram",
+    "Category":"Heritage Site",
+    "Description":"Mahabalipuram is a well-known heritage site located in Mahabalipuram, Tamil Nadu. The destination 'Mahabalipuram' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/mahabalipuram.jpg",
+    "Location":"Mahabalipuram",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/mahabalipuram"
+  },
+  {
+    "destination_name":"Yercaud",
+    "Category":"Hill Station",
+    "Description":"Yercaud is a well-known hill station located in Salem, Tamil Nadu. The destination 'Yercaud' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/yercaud.jpg",
+    "Location":"Salem",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/yercaud"
+  },
+  {
+    "destination_name":"Rameswaram",
+    "Category":"Temple",
+    "Description":"Rameswaram is a well-known temple located in Rameswaram, Tamil Nadu. The destination 'Rameswaram' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/rameswaram.jpg",
+    "Location":"Rameswaram",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/rameswaram"
+  },
+  {
+    "destination_name":"Kodaikanal",
+    "Category":"Hill Station",
+    "Description":"Kodaikanal is a well-known hill station located in Dindigul, Tamil Nadu. The destination 'Kodaikanal' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/kodaikanal.jpg",
+    "Location":"Dindigul",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/kodaikanal"
+  },
+  {
+    "destination_name":"Srirangam Temple",
+    "Category":"Temple",
+    "Description":"Srirangam Temple is a well-known temple located in Tiruchirapalli, Tamil Nadu. The destination 'Srirangam Temple' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/srirangam_temple.jpg",
+    "Location":"Tiruchirapalli",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/srirangam-temple"
+  },
+  {
+    "destination_name":"Courtallam Falls",
+    "Category":"Waterfall",
+    "Description":"Courtallam Falls is a well-known waterfall located in Tenkasi, Tamil Nadu. The destination 'Courtallam Falls' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/courtallam_falls.jpg",
+    "Location":"Tenkasi",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/courtallam-falls"
+  },
+  {
+    "destination_name":"Thanjavur Palace",
+    "Category":"Heritage Site",
+    "Description":"Thanjavur Palace is a well-known heritage site located in Thanjavur, Tamil Nadu. The destination 'Thanjavur Palace' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/thanjavur_palace.jpg",
+    "Location":"Thanjavur",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/thanjavur-palace"
+  },
+  {
+    "destination_name":"Pichavaram Mangrove Forest",
+    "Category":"Forest",
+    "Description":"Pichavaram Mangrove Forest is a well-known forest located in Cuddalore, Tamil Nadu. The destination 'Pichavaram Mangrove Forest' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/pichavaram_mangrove_forest.jpg",
+    "Location":"Cuddalore",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/pichavaram-mangrove-forest"
+  },
+  {
+    "destination_name":"Vellore Fort",
+    "Category":"Fort",
+    "Description":"Vellore Fort is a well-known fort located in Vellore, Tamil Nadu. The destination 'Vellore Fort' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/vellore_fort.jpg",
+    "Location":"Vellore",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/vellore-fort"
+  },
+  {
+    "destination_name":"Annamalaiyar Temple",
+    "Category":"Temple",
+    "Description":"Annamalaiyar Temple is a well-known temple located in Tiruvannamalai, Tamil Nadu. The destination 'Annamalaiyar Temple' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/annamalaiyar_temple.jpg",
+    "Location":"Tiruvannamalai",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/annamalaiyar-temple"
+  },
+  {
+    "destination_name":"Hogenakkal Falls",
+    "Category":"Waterfall",
+    "Description":"Hogenakkal Falls is a well-known waterfall located in Dharmapuri, Tamil Nadu. The destination 'Hogenakkal Falls' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/hogenakkal_falls.jpg",
+    "Location":"Dharmapuri",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/hogenakkal-falls"
+  },
+  {
+    "destination_name":"Velankanni Church",
+    "Category":"Church",
+    "Description":"Velankanni Church is a well-known church located in Nagapattinam, Tamil Nadu. The destination 'Velankanni Church' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/velankanni_church.jpg",
+    "Location":"Nagapattinam",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/velankanni-church"
+  },
+  {
+    "destination_name":"Pulicat Lake",
+    "Category":"Lake",
+    "Description":"Pulicat Lake is a well-known lake located in Thiruvallur, Tamil Nadu. The destination 'Pulicat Lake' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/pulicat_lake.jpg",
+    "Location":"Thiruvallur",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/pulicat-lake"
+  },
+  {
+    "destination_name":"Thiruvannamalai",
+    "Category":"Temple",
+    "Description":"Thiruvannamalai is a well-known temple located in Tiruvannamalai, Tamil Nadu. The destination 'Thiruvannamalai' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/thiruvannamalai.jpg",
+    "Location":"Tiruvannamalai",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/thiruvannamalai"
+  },
+  {
+    "destination_name":"Chidambaram Nataraja Temple",
+    "Category":"Temple",
+    "Description":"Chidambaram Nataraja Temple is a well-known temple located in Cuddalore, Tamil Nadu. The destination 'Chidambaram Nataraja Temple' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/chidambaram_nataraja_temple.jpg",
+    "Location":"Cuddalore",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/chidambaram-nataraja-temple"
+  },
+  {
+    "destination_name":"Arulmigu Dhandayuthapani Temple",
+    "Category":"Temple",
+    "Description":"Arulmigu Dhandayuthapani Temple is a well-known temple located in Palani, Tamil Nadu. The destination 'Arulmigu Dhandayuthapani Temple' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/arulmigu_dhandayuthapani_temple.jpg",
+    "Location":"Palani",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/arulmigu-dhandayuthapani-temple"
+  },
+  {
+    "destination_name":"Kolli Hills",
+    "Category":"Hill Station",
+    "Description":"Kolli Hills is a well-known hill station located in Namakkal, Tamil Nadu. The destination 'Kolli Hills' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/kolli_hills.jpg",
+    "Location":"Namakkal",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/kolli-hills"
+  },
+  {
+    "destination_name":"Silver Beach",
+    "Category":"Beach",
+    "Description":"Silver Beach is a well-known beach located in Cuddalore, Tamil Nadu. The destination 'Silver Beach' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/silver_beach.jpg",
+    "Location":"Cuddalore",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/silver-beach"
+  },
+  {
+    "destination_name":"Siruvani Waterfalls",
+    "Category":"Waterfall",
+    "Description":"Siruvani Waterfalls is a well-known waterfall located in Coimbatore, Tamil Nadu. The destination 'Siruvani Waterfalls' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/siruvani_waterfalls.jpg",
+    "Location":"Coimbatore",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/siruvani-waterfalls"
+  },
+  {
+    "destination_name":"Vivekananda Rock Memorial",
+    "Category":"Heritage Site",
+    "Description":"Vivekananda Rock Memorial is a well-known heritage site located in Kanyakumari, Tamil Nadu. The destination 'Vivekananda Rock Memorial' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/vivekananda_rock_memorial.jpg",
+    "Location":"Kanyakumari",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/vivekananda-rock-memorial"
+  },
+  {
+    "destination_name":"Mudumalai National Park",
+    "Category":"Sanctuary",
+    "Description":"Mudumalai National Park is a well-known sanctuary located in Nilgiris, Tamil Nadu. The destination 'Mudumalai National Park' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/mudumalai_national_park.jpg",
+    "Location":"Nilgiris",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/mudumalai-national-park"
+  },
+  {
+    "destination_name":"Gangaikonda Cholapuram",
+    "Category":"Heritage Site",
+    "Description":"Gangaikonda Cholapuram is a well-known heritage site located in Ariyalur, Tamil Nadu. The destination 'Gangaikonda Cholapuram' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/gangaikonda_cholapuram.jpg",
+    "Location":"Ariyalur",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/gangaikonda-cholapuram"
+  },
+  {
+    "destination_name":"Thirparappu Falls",
+    "Category":"Waterfall",
+    "Description":"Thirparappu Falls is a well-known waterfall located in Kanyakumari, Tamil Nadu. The destination 'Thirparappu Falls' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/thirparappu_falls.jpg",
+    "Location":"Kanyakumari",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/thirparappu-falls"
+  },
+  {
+    "destination_name":"Vattakottai Fort",
+    "Category":"Fort",
+    "Description":"Vattakottai Fort is a well-known fort located in Kanyakumari, Tamil Nadu. The destination 'Vattakottai Fort' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/vattakottai_fort.jpg",
+    "Location":"Kanyakumari",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/vattakottai-fort"
+  },
+  {
+    "destination_name":"Santhome Basilica",
+    "Category":"Church",
+    "Description":"Santhome Basilica is a well-known church located in Chennai, Tamil Nadu. The destination 'Santhome Basilica' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/santhome_basilica.jpg",
+    "Location":"Chennai",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/santhome-basilica"
+  },
+  {
+    "destination_name":"Pazhamudircholai Murugan Temple",
+    "Category":"Temple",
+    "Description":"Pazhamudircholai Murugan Temple is a well-known temple located in Madurai, Tamil Nadu. The destination 'Pazhamudircholai Murugan Temple' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/pazhamudircholai_murugan_temple.jpg",
+    "Location":"Madurai",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/pazhamudircholai-murugan-temple"
+  },
+  {
+    "destination_name":"Arignar Anna Zoological Park",
+    "Category":"Sanctuary",
+    "Description":"Arignar Anna Zoological Park is a well-known sanctuary located in Chennai, Tamil Nadu. The destination 'Arignar Anna Zoological Park' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/arignar_anna_zoological_park.jpg",
+    "Location":"Chennai",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/arignar-anna-zoological-park"
+  },
+  {
+    "destination_name":"Kalrayan Hills",
+    "Category":"Hill Station",
+    "Description":"Kalrayan Hills is a well-known hill station located in Villupuram, Tamil Nadu. The destination 'Kalrayan Hills' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/kalrayan_hills.jpg",
+    "Location":"Villupuram",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/kalrayan-hills"
+  },
+  {
+    "destination_name":"Mayuranathaswami Temple",
+    "Category":"Temple",
+    "Description":"Mayuranathaswami Temple is a well-known temple located in Mayiladuthurai, Tamil Nadu. The destination 'Mayuranathaswami Temple' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/mayuranathaswami_temple.jpg",
+    "Location":"Mayiladuthurai",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/mayuranathaswami-temple"
+  },
+  {
+    "destination_name":"Vellangani Beach",
+    "Category":"Beach",
+    "Description":"Vellangani Beach is a well-known beach located in Nagapattinam, Tamil Nadu. The destination 'Vellangani Beach' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/vellangani_beach.jpg",
+    "Location":"Nagapattinam",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/vellangani-beach"
+  },
+  {
+    "destination_name":"Sankagiri Fort",
+    "Category":"Fort",
+    "Description":"Sankagiri Fort is a well-known fort located in Salem, Tamil Nadu. The destination 'Sankagiri Fort' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/sankagiri_fort.jpg",
+    "Location":"Salem",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/sankagiri-fort"
+  },
+  {
+    "destination_name":"Jambukeswarar Temple",
+    "Category":"Temple",
+    "Description":"Jambukeswarar Temple is a well-known temple located in Tiruchirapalli, Tamil Nadu. The destination 'Jambukeswarar Temple' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/jambukeswarar_temple.jpg",
+    "Location":"Tiruchirapalli",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/jambukeswarar-temple"
+  },
+  {
+    "destination_name":"Mettur Dam",
+    "Category":"Heritage Site",
+    "Description":"Mettur Dam is a well-known heritage site located in Salem, Tamil Nadu. The destination 'Mettur Dam' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/mettur_dam.jpg",
+    "Location":"Salem",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/mettur-dam"
+  },
+  {
+    "destination_name":"Manimuthar Falls",
+    "Category":"Waterfall",
+    "Description":"Manimuthar Falls is a well-known waterfall located in Tirunelveli, Tamil Nadu. The destination 'Manimuthar Falls' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/manimuthar_falls.jpg",
+    "Location":"Tirunelveli",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/manimuthar-falls"
+  },
+  {
+    "destination_name":"Srivilliputhur Andal Temple",
+    "Category":"Temple",
+    "Description":"Srivilliputhur Andal Temple is a well-known temple located in Virudhunagar, Tamil Nadu. The destination 'Srivilliputhur Andal Temple' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/srivilliputhur_andal_temple.jpg",
+    "Location":"Virudhunagar",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/srivilliputhur-andal-temple"
+  },
+  {
+    "destination_name":"Kalakkad Mundanthurai Tiger Reserve",
+    "Category":"Sanctuary",
+    "Description":"Kalakkad Mundanthurai Tiger Reserve is a well-known sanctuary located in Tirunelveli, Tamil Nadu. The destination 'Kalakkad Mundanthurai Tiger Reserve' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/kalakkad_mundanthurai_tiger_reserve.jpg",
+    "Location":"Tirunelveli",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/kalakkad-mundanthurai-tiger-reserve"
+  },
+  {
+    "destination_name":"Parvathamalai",
+    "Category":"Hill Station",
+    "Description":"Parvathamalai is a well-known hill station located in Tiruvannamalai, Tamil Nadu. The destination 'Parvathamalai' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/parvathamalai.jpg",
+    "Location":"Tiruvannamalai",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/parvathamalai"
+  },
+  {
+    "destination_name":"Periyar Wildlife Sanctuary",
+    "Category":"Sanctuary",
+    "Description":"Periyar Wildlife Sanctuary is a well-known sanctuary located in Theni, Tamil Nadu. The destination 'Periyar Wildlife Sanctuary' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/periyar_wildlife_sanctuary.jpg",
+    "Location":"Theni",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/periyar-wildlife-sanctuary"
+  },
+  {
+    "destination_name":"Thirumohoor Kalamegaperumal Temple",
+    "Category":"Temple",
+    "Description":"Thirumohoor Kalamegaperumal Temple is a well-known temple located in Madurai, Tamil Nadu. The destination 'Thirumohoor Kalamegaperumal Temple' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/thirumohoor_kalamegaperumal_temple.jpg",
+    "Location":"Madurai",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/thirumohoor-kalamegaperumal-temple"
+  },
+  {
+    "destination_name":"Keezhadi Excavation Site",
+    "Category":"Heritage Site",
+    "Description":"Keezhadi Excavation Site is a well-known heritage site located in Sivaganga, Tamil Nadu. The destination 'Keezhadi Excavation Site' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/keezhadi_excavation_site.jpg",
+    "Location":"Sivaganga",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/keezhadi-excavation-site"
+  },
+  {
+    "destination_name":"Poombuhar Beach",
+    "Category":"Beach",
+    "Description":"Poombuhar Beach is a well-known beach located in Nagapattinam, Tamil Nadu. The destination 'Poombuhar Beach' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/poombuhar_beach.jpg",
+    "Location":"Nagapattinam",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/poombuhar-beach"
+  },
+  {
+    "destination_name":"Mukurthi National Park",
+    "Category":"Sanctuary",
+    "Description":"Mukurthi National Park is a well-known sanctuary located in Nilgiris, Tamil Nadu. The destination 'Mukurthi National Park' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/mukurthi_national_park.jpg",
+    "Location":"Nilgiris",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/mukurthi-national-park"
+  },
+  {
+    "destination_name":"St. Mary's Church",
+    "Category":"Church",
+    "Description":"St. Mary's Church is a well-known church located in Chennai, Tamil Nadu. The destination 'St. Mary's Church' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/st._mary's_church.jpg",
+    "Location":"Chennai",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/st.-mary's-church"
+  },
+  {
+    "destination_name":"Kumbakonam Temples",
+    "Category":"Temple",
+    "Description":"Kumbakonam Temples is a well-known temple located in Thanjavur, Tamil Nadu. The destination 'Kumbakonam Temples' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/kumbakonam_temples.jpg",
+    "Location":"Thanjavur",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/kumbakonam-temples"
+  },
+  {
+    "destination_name":"Udhagamandalam Lake",
+    "Category":"Lake",
+    "Description":"Udhagamandalam Lake is a well-known lake located in Ooty, Tamil Nadu. The destination 'Udhagamandalam Lake' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/udhagamandalam_lake.jpg",
+    "Location":"Ooty",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/udhagamandalam-lake"
+  },
+  {
+    "destination_name":"Sittanavasal Cave",
+    "Category":"Heritage Site",
+    "Description":"Sittanavasal Cave is a well-known heritage site located in Pudukkottai, Tamil Nadu. The destination 'Sittanavasal Cave' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/sittanavasal_cave.jpg",
+    "Location":"Pudukkottai",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/sittanavasal-cave"
+  },
+  {
+    "destination_name":"Azhagar Kovil",
+    "Category":"Temple",
+    "Description":"Azhagar Kovil is a well-known temple located in Madurai, Tamil Nadu. The destination 'Azhagar Kovil' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/azhagar_kovil.jpg",
+    "Location":"Madurai",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/azhagar-kovil"
+  },
+  {
+    "destination_name":"Catherine Falls",
+    "Category":"Waterfall",
+    "Description":"Catherine Falls is a well-known waterfall located in Nilgiris, Tamil Nadu. The destination 'Catherine Falls' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/catherine_falls.jpg",
+    "Location":"Nilgiris",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/catherine-falls"
+  },
+  {
+    "destination_name":"Fort St. George",
+    "Category":"Heritage Site",
+    "Description":"Fort St. George is a well-known heritage site located in Chennai, Tamil Nadu. The destination 'Fort St. George' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/fort_st._george.jpg",
+    "Location":"Chennai",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/fort-st.-george"
+  },
+  {
+    "destination_name":"Vandalur Zoo",
+    "Category":"Sanctuary",
+    "Description":"Vandalur Zoo is a well-known sanctuary located in Chennai, Tamil Nadu. The destination 'Vandalur Zoo' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/vandalur_zoo.jpg",
+    "Location":"Chennai",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/vandalur-zoo"
+  },
+  {
+    "destination_name":"Thiruchendur Murugan Temple",
+    "Category":"Temple",
+    "Description":"Thiruchendur Murugan Temple is a well-known temple located in Thoothukudi, Tamil Nadu. The destination 'Thiruchendur Murugan Temple' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/thiruchendur_murugan_temple.jpg",
+    "Location":"Thoothukudi",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/thiruchendur-murugan-temple"
+  },
+  {
+    "destination_name":"Nagore Dargah",
+    "Category":"Temple",
+    "Description":"Nagore Dargah is a well-known temple located in Nagapattinam, Tamil Nadu. The destination 'Nagore Dargah' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/nagore_dargah.jpg",
+    "Location":"Nagapattinam",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/nagore-dargah"
+  },
+  {
+    "destination_name":"Kutralam Main Falls",
+    "Category":"Waterfall",
+    "Description":"Kutralam Main Falls is a well-known waterfall located in Tenkasi, Tamil Nadu. The destination 'Kutralam Main Falls' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/kutralam_main_falls.jpg",
+    "Location":"Tenkasi",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/kutralam-main-falls"
+  },
+  {
+    "destination_name":"Gingee Fort",
+    "Category":"Fort",
+    "Description":"Gingee Fort is a well-known fort located in Viluppuram, Tamil Nadu. The destination 'Gingee Fort' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/gingee_fort.jpg",
+    "Location":"Viluppuram",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/gingee-fort"
+  },
+  {
+    "destination_name":"Bhavanisagar Dam",
+    "Category":"Lake",
+    "Description":"Bhavanisagar Dam is a well-known lake located in Erode, Tamil Nadu. The destination 'Bhavanisagar Dam' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/bhavanisagar_dam.jpg",
+    "Location":"Erode",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/bhavanisagar-dam"
+  },
+  {
+    "destination_name":"Meenakshi Amman Temple - Viewpoint 1",
+    "Category":"Temple",
+    "Description":"Meenakshi Amman Temple - Viewpoint 1 offers a unique perspective of the temple located in Madurai, Tamil Nadu. The destination 'Meenakshi Amman Temple - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/meenakshi_amman_temple__viewpoint_1.jpg",
+    "Location":"Madurai",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/meenakshi-amman-temple--viewpoint-1"
+  },
+  {
+    "destination_name":"Marina Beach - Viewpoint 1",
+    "Category":"Beach",
+    "Description":"Marina Beach - Viewpoint 1 offers a unique perspective of the beach located in Chennai, Tamil Nadu. The destination 'Marina Beach - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/marina_beach__viewpoint_1.jpg",
+    "Location":"Chennai",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/marina-beach--viewpoint-1"
+  },
+  {
+    "destination_name":"Ooty - Viewpoint 1",
+    "Category":"Hill Station",
+    "Description":"Ooty - Viewpoint 1 offers a unique perspective of the hill station located in Nilgiris, Tamil Nadu. The destination 'Ooty - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/ooty__viewpoint_1.jpg",
+    "Location":"Nilgiris",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/ooty--viewpoint-1"
+  },
+  {
+    "destination_name":"Brihadeeswara Temple - Viewpoint 1",
+    "Category":"Temple",
+    "Description":"Brihadeeswara Temple - Viewpoint 1 offers a unique perspective of the temple located in Thanjavur, Tamil Nadu. The destination 'Brihadeeswara Temple - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/brihadeeswara_temple__viewpoint_1.jpg",
+    "Location":"Thanjavur",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/brihadeeswara-temple--viewpoint-1"
+  },
+  {
+    "destination_name":"Kanyakumari - Viewpoint 1",
+    "Category":"Beach",
+    "Description":"Kanyakumari - Viewpoint 1 offers a unique perspective of the beach located in Kanyakumari, Tamil Nadu. The destination 'Kanyakumari - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/kanyakumari__viewpoint_1.jpg",
+    "Location":"Kanyakumari",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/kanyakumari--viewpoint-1"
+  },
+  {
+    "destination_name":"Mahabalipuram - Viewpoint 1",
+    "Category":"Heritage Site",
+    "Description":"Mahabalipuram - Viewpoint 1 offers a unique perspective of the heritage site located in Mahabalipuram, Tamil Nadu. The destination 'Mahabalipuram - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/mahabalipuram__viewpoint_1.jpg",
+    "Location":"Mahabalipuram",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/mahabalipuram--viewpoint-1"
+  },
+  {
+    "destination_name":"Yercaud - Viewpoint 1",
+    "Category":"Hill Station",
+    "Description":"Yercaud - Viewpoint 1 offers a unique perspective of the hill station located in Salem, Tamil Nadu. The destination 'Yercaud - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/yercaud__viewpoint_1.jpg",
+    "Location":"Salem",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/yercaud--viewpoint-1"
+  },
+  {
+    "destination_name":"Rameswaram - Viewpoint 1",
+    "Category":"Temple",
+    "Description":"Rameswaram - Viewpoint 1 offers a unique perspective of the temple located in Rameswaram, Tamil Nadu. The destination 'Rameswaram - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/rameswaram__viewpoint_1.jpg",
+    "Location":"Rameswaram",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/rameswaram--viewpoint-1"
+  },
+  {
+    "destination_name":"Kodaikanal - Viewpoint 1",
+    "Category":"Hill Station",
+    "Description":"Kodaikanal - Viewpoint 1 offers a unique perspective of the hill station located in Dindigul, Tamil Nadu. The destination 'Kodaikanal - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/kodaikanal__viewpoint_1.jpg",
+    "Location":"Dindigul",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/kodaikanal--viewpoint-1"
+  },
+  {
+    "destination_name":"Srirangam Temple - Viewpoint 1",
+    "Category":"Temple",
+    "Description":"Srirangam Temple - Viewpoint 1 offers a unique perspective of the temple located in Tiruchirapalli, Tamil Nadu. The destination 'Srirangam Temple - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/srirangam_temple__viewpoint_1.jpg",
+    "Location":"Tiruchirapalli",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/srirangam-temple--viewpoint-1"
+  },
+  {
+    "destination_name":"Courtallam Falls - Viewpoint 1",
+    "Category":"Waterfall",
+    "Description":"Courtallam Falls - Viewpoint 1 offers a unique perspective of the waterfall located in Tenkasi, Tamil Nadu. The destination 'Courtallam Falls - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/courtallam_falls__viewpoint_1.jpg",
+    "Location":"Tenkasi",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/courtallam-falls--viewpoint-1"
+  },
+  {
+    "destination_name":"Thanjavur Palace - Viewpoint 1",
+    "Category":"Heritage Site",
+    "Description":"Thanjavur Palace - Viewpoint 1 offers a unique perspective of the heritage site located in Thanjavur, Tamil Nadu. The destination 'Thanjavur Palace - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/thanjavur_palace__viewpoint_1.jpg",
+    "Location":"Thanjavur",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/thanjavur-palace--viewpoint-1"
+  },
+  {
+    "destination_name":"Pichavaram Mangrove Forest - Viewpoint 1",
+    "Category":"Forest",
+    "Description":"Pichavaram Mangrove Forest - Viewpoint 1 offers a unique perspective of the forest located in Cuddalore, Tamil Nadu. The destination 'Pichavaram Mangrove Forest - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/pichavaram_mangrove_forest__viewpoint_1.jpg",
+    "Location":"Cuddalore",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/pichavaram-mangrove-forest--viewpoint-1"
+  },
+  {
+    "destination_name":"Vellore Fort - Viewpoint 1",
+    "Category":"Fort",
+    "Description":"Vellore Fort - Viewpoint 1 offers a unique perspective of the fort located in Vellore, Tamil Nadu. The destination 'Vellore Fort - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/vellore_fort__viewpoint_1.jpg",
+    "Location":"Vellore",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/vellore-fort--viewpoint-1"
+  },
+  {
+    "destination_name":"Annamalaiyar Temple - Viewpoint 1",
+    "Category":"Temple",
+    "Description":"Annamalaiyar Temple - Viewpoint 1 offers a unique perspective of the temple located in Tiruvannamalai, Tamil Nadu. The destination 'Annamalaiyar Temple - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/annamalaiyar_temple__viewpoint_1.jpg",
+    "Location":"Tiruvannamalai",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/annamalaiyar-temple--viewpoint-1"
+  },
+  {
+    "destination_name":"Hogenakkal Falls - Viewpoint 1",
+    "Category":"Waterfall",
+    "Description":"Hogenakkal Falls - Viewpoint 1 offers a unique perspective of the waterfall located in Dharmapuri, Tamil Nadu. The destination 'Hogenakkal Falls - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/hogenakkal_falls__viewpoint_1.jpg",
+    "Location":"Dharmapuri",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/hogenakkal-falls--viewpoint-1"
+  },
+  {
+    "destination_name":"Velankanni Church - Viewpoint 1",
+    "Category":"Church",
+    "Description":"Velankanni Church - Viewpoint 1 offers a unique perspective of the church located in Nagapattinam, Tamil Nadu. The destination 'Velankanni Church - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/velankanni_church__viewpoint_1.jpg",
+    "Location":"Nagapattinam",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/velankanni-church--viewpoint-1"
+  },
+  {
+    "destination_name":"Pulicat Lake - Viewpoint 1",
+    "Category":"Lake",
+    "Description":"Pulicat Lake - Viewpoint 1 offers a unique perspective of the lake located in Thiruvallur, Tamil Nadu. The destination 'Pulicat Lake - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/pulicat_lake__viewpoint_1.jpg",
+    "Location":"Thiruvallur",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/pulicat-lake--viewpoint-1"
+  },
+  {
+    "destination_name":"Thiruvannamalai - Viewpoint 1",
+    "Category":"Temple",
+    "Description":"Thiruvannamalai - Viewpoint 1 offers a unique perspective of the temple located in Tiruvannamalai, Tamil Nadu. The destination 'Thiruvannamalai - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/thiruvannamalai__viewpoint_1.jpg",
+    "Location":"Tiruvannamalai",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/thiruvannamalai--viewpoint-1"
+  },
+  {
+    "destination_name":"Chidambaram Nataraja Temple - Viewpoint 1",
+    "Category":"Temple",
+    "Description":"Chidambaram Nataraja Temple - Viewpoint 1 offers a unique perspective of the temple located in Cuddalore, Tamil Nadu. The destination 'Chidambaram Nataraja Temple - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/chidambaram_nataraja_temple__viewpoint_1.jpg",
+    "Location":"Cuddalore",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/chidambaram-nataraja-temple--viewpoint-1"
+  },
+  {
+    "destination_name":"Arulmigu Dhandayuthapani Temple - Viewpoint 1",
+    "Category":"Temple",
+    "Description":"Arulmigu Dhandayuthapani Temple - Viewpoint 1 offers a unique perspective of the temple located in Palani, Tamil Nadu. The destination 'Arulmigu Dhandayuthapani Temple - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/arulmigu_dhandayuthapani_temple__viewpoint_1.jpg",
+    "Location":"Palani",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/arulmigu-dhandayuthapani-temple--viewpoint-1"
+  },
+  {
+    "destination_name":"Kolli Hills - Viewpoint 1",
+    "Category":"Hill Station",
+    "Description":"Kolli Hills - Viewpoint 1 offers a unique perspective of the hill station located in Namakkal, Tamil Nadu. The destination 'Kolli Hills - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/kolli_hills__viewpoint_1.jpg",
+    "Location":"Namakkal",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/kolli-hills--viewpoint-1"
+  },
+  {
+    "destination_name":"Silver Beach - Viewpoint 1",
+    "Category":"Beach",
+    "Description":"Silver Beach - Viewpoint 1 offers a unique perspective of the beach located in Cuddalore, Tamil Nadu. The destination 'Silver Beach - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/silver_beach__viewpoint_1.jpg",
+    "Location":"Cuddalore",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/silver-beach--viewpoint-1"
+  },
+  {
+    "destination_name":"Siruvani Waterfalls - Viewpoint 1",
+    "Category":"Waterfall",
+    "Description":"Siruvani Waterfalls - Viewpoint 1 offers a unique perspective of the waterfall located in Coimbatore, Tamil Nadu. The destination 'Siruvani Waterfalls - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/siruvani_waterfalls__viewpoint_1.jpg",
+    "Location":"Coimbatore",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/siruvani-waterfalls--viewpoint-1"
+  },
+  {
+    "destination_name":"Vivekananda Rock Memorial - Viewpoint 1",
+    "Category":"Heritage Site",
+    "Description":"Vivekananda Rock Memorial - Viewpoint 1 offers a unique perspective of the heritage site located in Kanyakumari, Tamil Nadu. The destination 'Vivekananda Rock Memorial - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/vivekananda_rock_memorial__viewpoint_1.jpg",
+    "Location":"Kanyakumari",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/vivekananda-rock-memorial--viewpoint-1"
+  },
+  {
+    "destination_name":"Mudumalai National Park - Viewpoint 1",
+    "Category":"Sanctuary",
+    "Description":"Mudumalai National Park - Viewpoint 1 offers a unique perspective of the sanctuary located in Nilgiris, Tamil Nadu. The destination 'Mudumalai National Park - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/mudumalai_national_park__viewpoint_1.jpg",
+    "Location":"Nilgiris",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/mudumalai-national-park--viewpoint-1"
+  },
+  {
+    "destination_name":"Gangaikonda Cholapuram - Viewpoint 1",
+    "Category":"Heritage Site",
+    "Description":"Gangaikonda Cholapuram - Viewpoint 1 offers a unique perspective of the heritage site located in Ariyalur, Tamil Nadu. The destination 'Gangaikonda Cholapuram - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/gangaikonda_cholapuram__viewpoint_1.jpg",
+    "Location":"Ariyalur",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/gangaikonda-cholapuram--viewpoint-1"
+  },
+  {
+    "destination_name":"Thirparappu Falls - Viewpoint 1",
+    "Category":"Waterfall",
+    "Description":"Thirparappu Falls - Viewpoint 1 offers a unique perspective of the waterfall located in Kanyakumari, Tamil Nadu. The destination 'Thirparappu Falls - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/thirparappu_falls__viewpoint_1.jpg",
+    "Location":"Kanyakumari",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/thirparappu-falls--viewpoint-1"
+  },
+  {
+    "destination_name":"Vattakottai Fort - Viewpoint 1",
+    "Category":"Fort",
+    "Description":"Vattakottai Fort - Viewpoint 1 offers a unique perspective of the fort located in Kanyakumari, Tamil Nadu. The destination 'Vattakottai Fort - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/vattakottai_fort__viewpoint_1.jpg",
+    "Location":"Kanyakumari",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/vattakottai-fort--viewpoint-1"
+  },
+  {
+    "destination_name":"Santhome Basilica - Viewpoint 1",
+    "Category":"Church",
+    "Description":"Santhome Basilica - Viewpoint 1 offers a unique perspective of the church located in Chennai, Tamil Nadu. The destination 'Santhome Basilica - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/santhome_basilica__viewpoint_1.jpg",
+    "Location":"Chennai",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/santhome-basilica--viewpoint-1"
+  },
+  {
+    "destination_name":"Pazhamudircholai Murugan Temple - Viewpoint 1",
+    "Category":"Temple",
+    "Description":"Pazhamudircholai Murugan Temple - Viewpoint 1 offers a unique perspective of the temple located in Madurai, Tamil Nadu. The destination 'Pazhamudircholai Murugan Temple - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/pazhamudircholai_murugan_temple__viewpoint_1.jpg",
+    "Location":"Madurai",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/pazhamudircholai-murugan-temple--viewpoint-1"
+  },
+  {
+    "destination_name":"Arignar Anna Zoological Park - Viewpoint 1",
+    "Category":"Sanctuary",
+    "Description":"Arignar Anna Zoological Park - Viewpoint 1 offers a unique perspective of the sanctuary located in Chennai, Tamil Nadu. The destination 'Arignar Anna Zoological Park - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/arignar_anna_zoological_park__viewpoint_1.jpg",
+    "Location":"Chennai",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/arignar-anna-zoological-park--viewpoint-1"
+  },
+  {
+    "destination_name":"Kalrayan Hills - Viewpoint 1",
+    "Category":"Hill Station",
+    "Description":"Kalrayan Hills - Viewpoint 1 offers a unique perspective of the hill station located in Villupuram, Tamil Nadu. The destination 'Kalrayan Hills - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/kalrayan_hills__viewpoint_1.jpg",
+    "Location":"Villupuram",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/kalrayan-hills--viewpoint-1"
+  },
+  {
+    "destination_name":"Mayuranathaswami Temple - Viewpoint 1",
+    "Category":"Temple",
+    "Description":"Mayuranathaswami Temple - Viewpoint 1 offers a unique perspective of the temple located in Mayiladuthurai, Tamil Nadu. The destination 'Mayuranathaswami Temple - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/mayuranathaswami_temple__viewpoint_1.jpg",
+    "Location":"Mayiladuthurai",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/mayuranathaswami-temple--viewpoint-1"
+  },
+  {
+    "destination_name":"Vellangani Beach - Viewpoint 1",
+    "Category":"Beach",
+    "Description":"Vellangani Beach - Viewpoint 1 offers a unique perspective of the beach located in Nagapattinam, Tamil Nadu. The destination 'Vellangani Beach - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/vellangani_beach__viewpoint_1.jpg",
+    "Location":"Nagapattinam",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/vellangani-beach--viewpoint-1"
+  },
+  {
+    "destination_name":"Sankagiri Fort - Viewpoint 1",
+    "Category":"Fort",
+    "Description":"Sankagiri Fort - Viewpoint 1 offers a unique perspective of the fort located in Salem, Tamil Nadu. The destination 'Sankagiri Fort - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/sankagiri_fort__viewpoint_1.jpg",
+    "Location":"Salem",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/sankagiri-fort--viewpoint-1"
+  },
+  {
+    "destination_name":"Jambukeswarar Temple - Viewpoint 1",
+    "Category":"Temple",
+    "Description":"Jambukeswarar Temple - Viewpoint 1 offers a unique perspective of the temple located in Tiruchirapalli, Tamil Nadu. The destination 'Jambukeswarar Temple - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/jambukeswarar_temple__viewpoint_1.jpg",
+    "Location":"Tiruchirapalli",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/jambukeswarar-temple--viewpoint-1"
+  },
+  {
+    "destination_name":"Mettur Dam - Viewpoint 1",
+    "Category":"Heritage Site",
+    "Description":"Mettur Dam - Viewpoint 1 offers a unique perspective of the heritage site located in Salem, Tamil Nadu. The destination 'Mettur Dam - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/mettur_dam__viewpoint_1.jpg",
+    "Location":"Salem",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/mettur-dam--viewpoint-1"
+  },
+  {
+    "destination_name":"Manimuthar Falls - Viewpoint 1",
+    "Category":"Waterfall",
+    "Description":"Manimuthar Falls - Viewpoint 1 offers a unique perspective of the waterfall located in Tirunelveli, Tamil Nadu. The destination 'Manimuthar Falls - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/manimuthar_falls__viewpoint_1.jpg",
+    "Location":"Tirunelveli",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/manimuthar-falls--viewpoint-1"
+  },
+  {
+    "destination_name":"Srivilliputhur Andal Temple - Viewpoint 1",
+    "Category":"Temple",
+    "Description":"Srivilliputhur Andal Temple - Viewpoint 1 offers a unique perspective of the temple located in Virudhunagar, Tamil Nadu. The destination 'Srivilliputhur Andal Temple - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/srivilliputhur_andal_temple__viewpoint_1.jpg",
+    "Location":"Virudhunagar",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/srivilliputhur-andal-temple--viewpoint-1"
+  },
+  {
+    "destination_name":"Kalakkad Mundanthurai Tiger Reserve - Viewpoint 1",
+    "Category":"Sanctuary",
+    "Description":"Kalakkad Mundanthurai Tiger Reserve - Viewpoint 1 offers a unique perspective of the sanctuary located in Tirunelveli, Tamil Nadu. The destination 'Kalakkad Mundanthurai Tiger Reserve - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/kalakkad_mundanthurai_tiger_reserve__viewpoint_1.jpg",
+    "Location":"Tirunelveli",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/kalakkad-mundanthurai-tiger-reserve--viewpoint-1"
+  },
+  {
+    "destination_name":"Parvathamalai - Viewpoint 1",
+    "Category":"Hill Station",
+    "Description":"Parvathamalai - Viewpoint 1 offers a unique perspective of the hill station located in Tiruvannamalai, Tamil Nadu. The destination 'Parvathamalai - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/parvathamalai__viewpoint_1.jpg",
+    "Location":"Tiruvannamalai",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/parvathamalai--viewpoint-1"
+  },
+  {
+    "destination_name":"Periyar Wildlife Sanctuary - Viewpoint 1",
+    "Category":"Sanctuary",
+    "Description":"Periyar Wildlife Sanctuary - Viewpoint 1 offers a unique perspective of the sanctuary located in Theni, Tamil Nadu. The destination 'Periyar Wildlife Sanctuary - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/periyar_wildlife_sanctuary__viewpoint_1.jpg",
+    "Location":"Theni",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/periyar-wildlife-sanctuary--viewpoint-1"
+  },
+  {
+    "destination_name":"Thirumohoor Kalamegaperumal Temple - Viewpoint 1",
+    "Category":"Temple",
+    "Description":"Thirumohoor Kalamegaperumal Temple - Viewpoint 1 offers a unique perspective of the temple located in Madurai, Tamil Nadu. The destination 'Thirumohoor Kalamegaperumal Temple - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/thirumohoor_kalamegaperumal_temple__viewpoint_1.jpg",
+    "Location":"Madurai",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/thirumohoor-kalamegaperumal-temple--viewpoint-1"
+  },
+  {
+    "destination_name":"Keezhadi Excavation Site - Viewpoint 1",
+    "Category":"Heritage Site",
+    "Description":"Keezhadi Excavation Site - Viewpoint 1 offers a unique perspective of the heritage site located in Sivaganga, Tamil Nadu. The destination 'Keezhadi Excavation Site - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/keezhadi_excavation_site__viewpoint_1.jpg",
+    "Location":"Sivaganga",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/keezhadi-excavation-site--viewpoint-1"
+  },
+  {
+    "destination_name":"Poombuhar Beach - Viewpoint 1",
+    "Category":"Beach",
+    "Description":"Poombuhar Beach - Viewpoint 1 offers a unique perspective of the beach located in Nagapattinam, Tamil Nadu. The destination 'Poombuhar Beach - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/poombuhar_beach__viewpoint_1.jpg",
+    "Location":"Nagapattinam",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/poombuhar-beach--viewpoint-1"
+  },
+  {
+    "destination_name":"Mukurthi National Park - Viewpoint 1",
+    "Category":"Sanctuary",
+    "Description":"Mukurthi National Park - Viewpoint 1 offers a unique perspective of the sanctuary located in Nilgiris, Tamil Nadu. The destination 'Mukurthi National Park - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/mukurthi_national_park__viewpoint_1.jpg",
+    "Location":"Nilgiris",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/mukurthi-national-park--viewpoint-1"
+  },
+  {
+    "destination_name":"St. Mary's Church - Viewpoint 1",
+    "Category":"Church",
+    "Description":"St. Mary's Church - Viewpoint 1 offers a unique perspective of the church located in Chennai, Tamil Nadu. The destination 'St. Mary's Church - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/st._mary's_church__viewpoint_1.jpg",
+    "Location":"Chennai",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/st.-mary's-church--viewpoint-1"
+  },
+  {
+    "destination_name":"Kumbakonam Temples - Viewpoint 1",
+    "Category":"Temple",
+    "Description":"Kumbakonam Temples - Viewpoint 1 offers a unique perspective of the temple located in Thanjavur, Tamil Nadu. The destination 'Kumbakonam Temples - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/kumbakonam_temples__viewpoint_1.jpg",
+    "Location":"Thanjavur",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/kumbakonam-temples--viewpoint-1"
+  },
+  {
+    "destination_name":"Udhagamandalam Lake - Viewpoint 1",
+    "Category":"Lake",
+    "Description":"Udhagamandalam Lake - Viewpoint 1 offers a unique perspective of the lake located in Ooty, Tamil Nadu. The destination 'Udhagamandalam Lake - Viewpoint 1' has significant cultural or historical relevance in Tamil Nadu, often attracting tourists for its unique features and heritage.",
+    "image_url":"https:\/\/example.com\/images\/udhagamandalam_lake__viewpoint_1.jpg",
+    "Location":"Ooty",
+    "link":"https:\/\/www.tamilnadutourism.tn.gov.in\/destinations\/udhagamandalam-lake--viewpoint-1"
+  }
+]

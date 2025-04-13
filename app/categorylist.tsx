@@ -7,16 +7,18 @@ import {
   View,
   StyleSheet,
   Dimensions,
+  ToastAndroid,
   ActivityIndicator,
 } from "react-native";
 import { LinearGradient } from "expo-linear-gradient";
-import { useNavigation } from "@react-navigation/native";
 import { MaterialIcons } from "@expo/vector-icons";
-import usePlace from "@/hooks/useDestinations";
 import { router } from "expo-router";
+import { useLocalSearchParams } from "expo-router";
 import { Colors } from "@/constants/Colors";
 
 const { width, height } = Dimensions.get("window");
+const API_URL =
+  "https://appsail-50025919837.development.catalystappsail.in/api/destinations";
 
 interface DestinationItem {
   destination_name: string;
@@ -27,13 +29,31 @@ interface DestinationItem {
   link: string;
 }
 
-export default function Destinations() {
-  const navigation = useNavigation();
-  const { destinations, loading, getAllDestinations } = usePlace();
+export default function categorylist() {
+  const { category } = useLocalSearchParams(); // Get category from navigation
+  const [destinations, setDestinations] = useState<DestinationItem[]>([]);
+  const [loading, setLoading] = useState(false);
+
+  const getDestinationsByCategory = async (category: string) => {
+    setLoading(true);
+    try {
+      const res = await fetch(`${API_URL}/${category}`);
+      const data = await res.json();
+
+      if (!res.ok) throw new Error(data.message || "Failed to fetch");
+      setDestinations(data);
+    } catch (error) {
+      ToastAndroid.show((error as Error).message, ToastAndroid.SHORT);
+    } finally {
+      setLoading(false);
+    }
+  };
 
   useEffect(() => {
-    getAllDestinations();
-  }, []);
+    if (category) {
+      getDestinationsByCategory(String(category));
+    }
+  }, [category]);
 
   if (loading) {
     return (
@@ -44,21 +64,18 @@ export default function Destinations() {
   }
 
   return (
-    <View style={styles.container}>
-      {destinations.map((item: DestinationItem, index: number) => (
-        <DestinationCard item={item} key={index} navigation={navigation} />
-      ))}
-    </View>
+    <ScrollView contentContainerStyle={styles.container}>
+      {destinations.length === 0 ? (
+        <Text>No destinations found for {category}</Text>
+      ) : (
+        destinations.map((item, index) => (
+          <DestinationCard item={item} key={index} />
+        ))
+      )}
+    </ScrollView>
   );
 }
-
-const DestinationCard = ({
-  item,
-  navigation,
-}: {
-  item: DestinationItem;
-  navigation: any;
-}) => {
+const DestinationCard = ({ item }: { item: DestinationItem }) => {
   const [isFavorite, setFavorite] = useState(false);
   const [expanded, setExpanded] = useState(false);
 
@@ -127,6 +144,7 @@ const styles = StyleSheet.create({
     justifyContent: "space-between",
     paddingHorizontal: width * 0.04,
     paddingBottom: height * 0.05,
+    paddingTop: '20%'
   },
   cardContainer: {
     width: width * 0.44,
