@@ -15,6 +15,7 @@ import { MaterialIcons } from "@expo/vector-icons";
 import usePlace from "@/hooks/useDestinations";
 import { router } from "expo-router";
 import { Colors } from "@/constants/Colors";
+import { useLanguage } from "@/hooks/useLanguage";
 
 const { width, height } = Dimensions.get("window");
 
@@ -30,8 +31,10 @@ interface DestinationItem {
 export default function Destinations() {
   const navigation = useNavigation();
   const { destinations, loading, getAllDestinations } = usePlace();
+  const { language } = useLanguage();
 
   useEffect(() => {
+    console.log("Language changed to:", language);
     getAllDestinations();
   }, []);
 

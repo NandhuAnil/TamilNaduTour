@@ -1,7 +1,7 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { ToastAndroid } from 'react-native';
+import { useLanguage } from './useLanguage';
 
-const API_URL = 'https://appsail-50025919837.development.catalystappsail.in/api/destinations';
 
 interface Destination {
   destination_name: string;
@@ -13,14 +13,16 @@ interface Destination {
 }
 
 const usePlace = () => {
+  const { language } = useLanguage();
   const [destinations, setDestinations] = useState<Destination[]>([]);
   const [loading, setLoading] = useState<boolean>(false);
-
+  
   // ✅ Get All Destinations
   const getAllDestinations = async () => {
+    console.log("Fetching destinations with language:", language);
     setLoading(true);
     try {
-      const res = await fetch(`${API_URL}`);
+      const res = await fetch(`https://appsail-50025919837.development.catalystappsail.in/api/destinations/${language}`);
       const data = await res.json();
 
       if (!res.ok) throw new Error(data.message || 'Failed to fetch destinations');
@@ -36,7 +38,7 @@ const usePlace = () => {
   const getDestinationsByCategory = async (category: string) => {
     setLoading(true);
     try {
-      const res = await fetch(`${API_URL}/${category}`);
+      const res = await fetch(`https://appsail-50025919837.development.catalystappsail.in/api/destinations/${language}/${category}`);
       const data = await res.json();
 
       if (!res.ok) throw new Error(data.message || 'Failed to fetch by category');

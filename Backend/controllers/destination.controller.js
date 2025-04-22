@@ -21,3 +21,24 @@ export const getDestinationsByCategory = (req, res) => {
 
   res.json(filtered);
 };
+
+const tamilDataPath = path.resolve('db/TNTourData_Tamil.json');
+const tamilDestinations = JSON.parse(fs.readFileSync(tamilDataPath, 'utf-8'));
+
+export const getAllTamilDestinations = (req, res) => {
+  res.json(tamilDestinations);
+};
+
+export const getTamilDestinationsByCategory = (req, res) => {
+  const { category } = req.params;
+
+  const filtered = tamilDestinations.filter(
+    (item) => item.Category.toLowerCase() === category.toLowerCase()
+  );
+
+  if (filtered.length === 0) {
+    return res.status(404).json({ message: 'No Tamil destinations found in this category.' });
+  }
+
+  res.json(filtered);
+};

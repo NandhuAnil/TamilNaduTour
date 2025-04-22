@@ -15,10 +15,9 @@ import { MaterialIcons } from "@expo/vector-icons";
 import { router } from "expo-router";
 import { useLocalSearchParams } from "expo-router";
 import { Colors } from "@/constants/Colors";
+import { useLanguage } from "@/hooks/useLanguage";
 
 const { width, height } = Dimensions.get("window");
-const API_URL =
-  "https://appsail-50025919837.development.catalystappsail.in/api/destinations";
 
 interface DestinationItem {
   destination_name: string;
@@ -30,6 +29,9 @@ interface DestinationItem {
 }
 
 export default function categorylist() {
+  const { language } = useLanguage();
+  const API_URL =
+  `https://appsail-50025919837.development.catalystappsail.in/api/destinations/${language}`;
   const { category } = useLocalSearchParams(); // Get category from navigation
   const [destinations, setDestinations] = useState<DestinationItem[]>([]);
   const [loading, setLoading] = useState(false);
