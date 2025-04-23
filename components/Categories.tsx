@@ -12,16 +12,18 @@ import {
 import { categoriesData } from "../constants";
 import { Colors } from "@/constants/Colors";
 import { router } from "expo-router";
+import { useLanguage } from "@/hooks/useLanguage";
 
 const { width, height } = Dimensions.get("window");
 
 export default function Categories() {
+  const { translations } = useLanguage();
   return (
     <View style={styles.container}>
       <View style={styles.header}>
-        <Text style={styles.title}>Categories</Text>
+        <Text style={styles.title}>{translations("categories")}</Text>
         <TouchableOpacity>
-          <Text style={styles.seeAllText}>See all</Text>
+          <Text style={styles.seeAllText}>{translations("seeAll")}</Text>
         </TouchableOpacity>
       </View>
 
@@ -46,7 +48,7 @@ export default function Categories() {
               style={styles.categoryImage}
               resizeMode="cover"
             />
-            <Text style={styles.categoryTitle}>{cat.title}</Text>
+            <Text style={styles.categoryTitle}>{translations(cat.title)}</Text>
           </TouchableOpacity>
         ))}
       </ScrollView>

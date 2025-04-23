@@ -36,7 +36,7 @@ export default function Destinations() {
   useEffect(() => {
     console.log("Language changed to:", language);
     getAllDestinations();
-  }, []);
+  }, [language]);
 
   if (loading) {
     return (

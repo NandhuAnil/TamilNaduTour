@@ -27,7 +27,7 @@
     const [searchInput, setSearchInput] = useState("");
     const photoURL = "";
     const { currentUser } = useUser();
-    const { switchLanguage } = useLanguage();
+    const { switchLanguage, translations } = useLanguage();
 
     const getRandomColor = () => {
       const letters = "0123456789ABCDEF";
@@ -81,7 +81,7 @@
                 />
                 <View>
                   <Text style={{ fontFamily: "appFont", color: Colors.white }}>
-                    Hello, 👋
+                  {translations("hello")}, 👋
                   </Text>
                   <Text
                     style={{
@@ -115,7 +115,7 @@
               >
                 <AntDesign name="search1" size={24} color={Colors.white} />
                 <TextInput
-                  placeholder="Search"
+                  placeholder={translations("search")}
                   placeholderTextColor={Colors.white}
                   cursorColor={Colors.white}
                   onChangeText={(value: any) => setSearchInput(value)}
@@ -128,7 +128,7 @@
             <Categories />
           </View>
           <View>
-            <Text style={{ margin: width * 0.05, fontSize: width * 0.04, fontWeight: '600', }}>Explore</Text>
+            <Text style={{ margin: width * 0.05, fontSize: width * 0.04, fontWeight: '600', }}>{translations("explore")}</Text>
             <Destinations />
           </View>
         </ScrollView>
