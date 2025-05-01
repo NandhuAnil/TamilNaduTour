@@ -94,15 +94,13 @@ export default function DestinationScreen() {
               </View>
             </View>
 
-            <View style={styles.infoBlock}>
-              <TouchableOpacity onPress={handlePress}>
+            <TouchableOpacity style={styles.infoBlock} onPress={handlePress}>
                 <Feather name="map-pin" size={28} color="#f87171" />
                 <View style={styles.infoTextContainer}>
                   <Text style={styles.infoValue}>{Location}</Text>
                   <Text style={styles.infoLabel}>Location</Text>
                 </View>
-              </TouchableOpacity>
-            </View>
+            </TouchableOpacity>
           </View>
         </ScrollView>
       </View>
