@@ -7,6 +7,8 @@ import {
   View,
   Dimensions,
   StyleSheet,
+  Linking,
+  Alert,
 } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { useLocalSearchParams, useRouter } from "expo-router";
@@ -32,6 +34,19 @@ export default function DestinationScreen() {
   } = useLocalSearchParams() as Record<string, string>;
 
   const [isFavorite, setFavorite] = useState<boolean>(false);
+
+  const handlePress = async () => {
+    if (link) {
+      const supported = await Linking.canOpenURL(link);
+      if (supported) {
+        await Linking.openURL(link);
+      } else {
+        Alert.alert("Invalid Link", "Can't open the provided URL.");
+      }
+    } else {
+      Alert.alert("No Link", "No URL was provided.");
+    }
+  };
 
   return (
     <View style={styles.container}>
@@ -80,11 +95,13 @@ export default function DestinationScreen() {
             </View>
 
             <View style={styles.infoBlock}>
-              <Feather name="map-pin" size={28} color="#f87171" />
-              <View style={styles.infoTextContainer}>
-                <Text style={styles.infoValue}>{Location}</Text>
-                <Text style={styles.infoLabel}>Location</Text>
-              </View>
+              <TouchableOpacity onPress={handlePress}>
+                <Feather name="map-pin" size={28} color="#f87171" />
+                <View style={styles.infoTextContainer}>
+                  <Text style={styles.infoValue}>{Location}</Text>
+                  <Text style={styles.infoLabel}>Location</Text>
+                </View>
+              </TouchableOpacity>
             </View>
           </View>
         </ScrollView>

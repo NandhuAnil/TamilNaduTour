@@ -71,14 +71,16 @@
                   alignItems: "center",
                 }}
               >
-                <Image
-                  source={
-                    photoURL
-                      ? { uri: photoURL }
-                      : { uri: generateAvatarUrl(currentUser?.name || user.fullName) }
-                  }
-                  style={{ width: 45, height: 45, borderRadius: 99 }}
-                />
+                <TouchableOpacity onPress={() => router.push("/(tabs)/profile")}>
+                  <Image
+                    source={
+                      photoURL
+                        ? { uri: photoURL }
+                        : { uri: generateAvatarUrl(currentUser?.name || user.fullName) }
+                    }
+                    style={{ width: 45, height: 45, borderRadius: 99 }}
+                  />
+                </TouchableOpacity>
                 <View>
                   <Text style={{ fontFamily: "appFont", color: Colors.white }}>
                   {translations("hello")}, 👋
